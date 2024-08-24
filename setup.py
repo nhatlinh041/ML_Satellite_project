@@ -15,8 +15,8 @@ setup(
         "Programming Language :: Python :: 3",
     ],
     python_requires=">=3.7",
-    author="Amit Chaudhary",
-    author_email="meamitkc@gmail.com",
-    url="https://github.com/amitness/colab-connect",
+    author="Linh Nguyen",
+    author_email="nguyennhatlinh041@gmail.com",
+    url="https://github.com/nhatlinh041/ML_Satellite_project",
     packages=find_packages(),
 )
